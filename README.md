@@ -6,7 +6,7 @@ Although, I have not done much besides take up the usual classes the program off
 
 # Tech Stack
 These are the development languages and tools that I mainly use for development: <br>
-[![My Skills](https://skillicons.dev/icons?i=py,cs,js,vscode,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,js,vscode,godot,vercel)](https://skillicons.dev)
 
 These are the tools I am currently learning and/or have basic knowledge of: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,django,flask,nodejs,npm)](https://skillicons.dev)
