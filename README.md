@@ -14,11 +14,6 @@ These are the tools I am currently learning and/or have basic knowledge of: <br>
 # Projects
 And the crowd goes silent.. but don't worry! It'll fill up quick *very* soon. :)
 
-# Languages
-* Python
-* C#
-* JavaScript
-
 # Hobbies
 I grew up chasing extra-curricular activities in my school, so I've made my fair share of hobbies throughout the years:
 * 🏋️‍♂️ I love the gym! - I've been not-so-consistently working out since December 2024 and have made fitness and self-improvement a big part of my life. :)
