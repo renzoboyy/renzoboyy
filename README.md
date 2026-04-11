@@ -12,7 +12,7 @@ These are the tools I am currently learning and/or have basic knowledge of: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,django,flask,nodejs,npm)](https://skillicons.dev)
 
 # Projects
-* Developed Backend for [Verifai](https://github.com/abbychiu7/hackfest26) | My group's entry for our first Hackathon <br>
+* Developed Backend for [Verifai](https://github.com/abbychiu7/hackfest26) | My group's entry for our first Hackathon <br><br>
 ... and the crowd goes silent.. but don't worry! It'll fill up quick *very* soon. :)
 
 # Hobbies
