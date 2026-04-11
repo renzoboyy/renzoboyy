@@ -12,7 +12,8 @@ These are the tools I am currently learning and/or have basic knowledge of: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,django,flask,nodejs,npm)](https://skillicons.dev)
 
 # Projects
-And the crowd goes silent.. but don't worry! It'll fill up quick *very* soon. :)
+* Developed Backend for [Verifai](https://github.com/abbychiu7/hackfest26) | My group's entry for our first Hackathon
+... and the crowd goes silent.. but don't worry! It'll fill up quick *very* soon. :)
 
 # Hobbies
 I grew up chasing extra-curricular activities in my school, so I've made my fair share of hobbies throughout the years:
