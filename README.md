@@ -5,7 +5,7 @@ I am currently in my second year of my **Bachelors of Science** degree in [De La
 Although, I have not done much besides take up the usual classes the program offers. I look forward to exploring what's in store for me outside the school and many more opportunities that await my doorstep!
 
 # Tech Stack
-These are the development languages and tools that I mainly use for development: <br>
+These are the programming languages and tools that I mainly use for development: <br>
 [![My Skills](https://skillicons.dev/icons?i=py,cs,js,nextjs,css,nodejs,npm,vscode,godot,vercel)](https://skillicons.dev)
 
 These are the tools I am currently learning and/or have basic knowledge of: <br>
