@@ -1,15 +1,15 @@
 # It ain't much, but it's honest work.
 Hello, World! My name is Jed Lawrence Engbino, otherwise called renzoboy! <br>
-I am currently in my 2nd Year of my **Bachelors of Science** degree in [De La Salle - College of Saint Benilde](https://www.benilde.edu.ph/) <br> <br>
+I am currently in my second year of my **Bachelors of Science** degree in [De La Salle - College of Saint Benilde](https://www.benilde.edu.ph/) <br> <br>
 
 Although, I have not done much besides take up the usual classes the program offers. I look forward to exploring what's in store for me outside the school and many more opportunities that await my doorstep!
 
 # Tech Stack
 These are the development languages and tools that I mainly use for development: <br>
-[![My Skills](https://skillicons.dev/icons?i=py,cs,js,vscode,godot,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,js,nextjs,css,nodejs,npm,vscode,godot,vercel)](https://skillicons.dev)
 
 These are the tools I am currently learning and/or have basic knowledge of: <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,flask,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,html,css,django,flask)](https://skillicons.dev)
 
 # Projects
 * Developed Backend, Google Gemini API Intergration for [Verifai](https://github.com/abbychiu7/hackfest26) | My group's entry for our first Hackathon <br><br>
